@@ -1,1 +1,1 @@
-# arduino-nodemcu-esp8255-hello-world
+# arduino-nodemcu-esp8266-hello-world
